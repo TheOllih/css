@@ -2,7 +2,7 @@
     "room": "Club EDM Brazil",
     "author": "Ollih",
     "icon": null,
-    "css": "https://raw.githubusercontent.com/TheOllih/css/master/CEB.css",
+    "css": "https://rawgit.com/TheOllih/css/master/CEB.css",
     "rules": {
         "allowAutorespond": true,
         "allowAutowoot": true,
