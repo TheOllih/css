@@ -1,3 +1,4 @@
+(function(){
 		function transformBack(){
 			$("#footer-user .back span").text("Back");
 		}
@@ -28,7 +29,6 @@
                     $("#footer-user .info").css({"background":"#282C35"});
                 }
             }
-            $("#footer-user .info .name .icon").css({"-webkit-transform":"rotate(180deg)","transform":"rotate(180deg)"});
         }
 		
 		function turnOn(){
@@ -69,3 +69,4 @@
         $("#footer-user .button").hover(function(){$("#tooltip").remove();});
 		
 		turnOn();
+})();
