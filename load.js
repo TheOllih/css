@@ -1,1 +1,1 @@
-$.getScript("https://rawgit.com/TheOllih/css/master/footer.js");
+$.getScript("https://cdn.jsdelivr.net/gh/TheOllih/css/footer.js");
